@@ -1,2 +1,2 @@
 # bookbot
-Perform quick statistical analysis on text files
+BookBot is my first project!

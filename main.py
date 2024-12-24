@@ -20,6 +20,9 @@ def dict_to_key_val_dict_list(dict):
         key_val_obj_list.append(obj)
     return key_val_obj_list
 
+def sort_on_dict_value(dict):
+    return dict['value']
+
 def main():
     with open("books/frankenstein.txt") as f:
         file_contents = f.read()
